@@ -2,6 +2,7 @@
 
 FROM ubuntu:18.10
 
+LABEL maintainer="oshimamasara@gmail.com"
 LABEL version="1.0"
 LABEL description="Dockerfileのテスト、Volumeの設定"
 
